@@ -1,0 +1,1 @@
+# snap-store-badges
