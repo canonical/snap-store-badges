@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="56px" viewBox="0 0 182 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>[EN]-snap-store-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58"></polygon>
+    </defs>
+    <g id="Other-languages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EN" transform="translate(-4.000000, -43.000000)">
+            <g id="[EN]-snap-store-black" transform="translate(5.000000, 44.000000)">
+                <rect id="Rectangle-path" stroke="#CDCDCD" fill="#252525" x="0" y="0" width="180" height="54" rx="2"></rect>
+                <g id="logo" transform="translate(8.000000, 11.000000)">
+                    <g>
+                        <polygon id="Fill-2265" fill="#82BEA0" fill-rule="nonzero" points="18.9875172 17.8017143 26.2054138 10.5525714 18.9875172 7.33085714"></polygon>
+                        <polygon id="Fill-2266" fill="#82BEA0" fill-rule="nonzero" points="5.20774138 31.6411429 17.9423276 18.852 14.058569 14.9742857"></polygon>
+                        <polygon id="Fill-2267" fill="#82BEA0" fill-rule="nonzero" points="0.160180862 0.233262857 18.3753103 18.4171429 18.3753103 6.84571429"></polygon>
+                        <g id="Fill-2268" transform="translate(19.344828, 6.285714)" fill="#FA6441" fill-rule="nonzero">
+                            <polygon id="path-2" points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58"></polygon>
+                        </g>
+                        <g id="colour/snappy-accent-Clipped" transform="translate(19.344828, 6.285714)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="path-2"></g>
+                            <g id="colour/snappy-accent" mask="url(#mask-2)">
+                                <g transform="translate(-19.913793, -9.142857)" id="Rectangle-2">
+                                    <g transform="translate(0.343092, 0.497771)">
+                                        <rect id="Rectangle-path" fill="#FA6441" fill-rule="nonzero" x="0" y="0" width="101.275862" height="34.8571429"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Get-it-from-the" font-family="Ubuntu" font-size="12" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="51" y="12">Get it from the</tspan>
+                </text>
+                <text id="Snap-Store" font-family="Ubuntu" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="51" y="41">Snap Store</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
