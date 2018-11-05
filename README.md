@@ -18,5 +18,5 @@ All assets are available as _PNG_ in *1x (180x54)* and *2x (360x110)* sizes, as 
 ## Is your language missing? Help us translate them!
 Feel free to open a pull request with your proposed changes. Every little helps!
 
-# License
+## License
 The Snapcraft logo is licensed under CC BY-ND 2.0 UK, a registered trademark of Canonical Limited, 2018. Full license can be found on LICENSE.md
