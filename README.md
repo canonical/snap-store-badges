@@ -11,6 +11,7 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Japanese
 - French
 - Spanish
+- Chinese(Taiwan)
 
 ### What formats are available?
 All assets are available as _PNG_ in *1x (180x54)* and *2x (360x110)* sizes, as well as in SVG format.
