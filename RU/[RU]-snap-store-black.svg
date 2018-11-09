@@ -1,177 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="182px"
-   height="56px"
-   viewBox="0 0 182 56"
-   version="1.1"
-   id="svg46"
-   sodipodi:docname="[RU]-snap-store-black.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/user/Загрузки/snap-store-badges/RU/[RU]-snap-store-black.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata50">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1299"
-     inkscape:window-height="704"
-     id="namedview48"
-     showgrid="false"
-     inkscape:zoom="2.7637363"
-     inkscape:cx="80.841672"
-     inkscape:cy="14.162206"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Get-it-from-the" />
-  <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title2">[EN]-snap-store-black</title>
-  <desc
-     id="desc4">Created with Sketch.</desc>
-  <defs
-     id="defs7">
-    <polygon
-       id="path-1"
-       points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58" />
-  </defs>
-  <g
-     id="[EN]-snap-store-black"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <g
-       transform="translate(1,1)"
-       id="g43">
-      <rect
-         id="Rectangle-path"
-         x="0"
-         y="0"
-         width="180"
-         height="54"
-         rx="2"
-         style="fill:#252525;stroke:#cdcdcd" />
-      <g
-         id="logo"
-         transform="translate(8,11)">
-        <g
-           id="g30">
-          <polygon
-             id="Fill-2265"
-             points="18.987517,7.3308571 18.987517,17.801714 26.205414,10.552571 "
-             style="fill:#82bea0" />
-          <polygon
-             id="Fill-2266"
-             points="14.058569,14.974286 5.2077414,31.641143 17.942328,18.852 "
-             style="fill:#82bea0" />
-          <polygon
-             id="Fill-2267"
-             points="18.37531,6.8457143 0.16018086,0.23326286 18.37531,18.417143 "
-             style="fill:#82bea0" />
-          <g
-             id="Fill-2268"
-             transform="translate(19.344828,6.285714)"
-             style="fill:#fa6441">
-            <polygon
-               id="path-2"
-               points="0.06087931,0.55942857 13.548776,6.58 10.552034,0.55942857 " />
-          </g>
-          <g
-             id="colour/snappy-accent-Clipped"
-             transform="translate(19.344828,6.285714)">
-            <g
-               id="g27">
-              <mask
-                 id="mask-2"
-                 fill="white">
-                <use
-                   xlink:href="#path-1"
-                   id="use15"
-                   x="0"
-                   y="0"
-                   width="100%"
-                   height="100%" />
-              </mask>
-              <g
-                 id="g18" />
-              <g
-                 id="colour/snappy-accent"
-                 mask="url(#mask-2)">
-                <g
-                   transform="translate(-20,-10)"
-                   id="Rectangle-2">
-                  <g
-                     transform="translate(0.086207,0.857143)"
-                     id="g23">
-                    <g
-                       id="Group"
-                       transform="translate(0.343092,0.497771)"
-                       style="fill:#fa6441">
-                      <rect
-                         id="rect20"
-                         x="0"
-                         y="0"
-                         width="101.27586"
-                         height="34.857143" />
-                    </g>
-                  </g>
-                </g>
-              </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="56px" viewBox="0 0 182 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>[RU]-snap-store-black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="[RU]-snap-store-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black-badge">
+            <rect id="Rectangle-path" stroke="#CDCDCD" stroke-width="1" fill="#252525" fill-rule="evenodd" x="0" y="0" width="182" height="56" rx="2"></rect>
+            <g id="logo" transform="translate(8.000000, 11.000000)" fill-rule="nonzero">
+                <path d="M18.9875172,17.8017143 L18.9875172,7.33085714 L26.2054138,10.5525714 L18.9875172,17.8017143 Z M5.20774138,31.6411429 L14.058569,14.9742857 L17.9423276,18.852 L5.20774138,31.6411429 Z M0.160180862,0.233262857 L18.3753103,6.84571429 L18.3753103,18.4171429 L0.160180862,0.233262857 Z" id="body" fill="#82BEA0"></path>
+                <polygon id="head" fill="#FA6441" points="29.8968621 6.84514286 19.4057069 6.84514286 32.8936034 12.8657143"></polygon>
             </g>
-          </g>
+            <text id="Get-it-from-the" font-family="Ubuntu" font-size="12" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="50" y="12">Загрузите из</tspan>
+            </text>
+            <text id="Snap-Store" font-family="Ubuntu" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="50" y="41">Snap Store</tspan>
+            </text>
         </g>
-      </g>
-      <g
-         id="Get-it-from-the"
-         transform="translate(50,7)"
-         font-size="12"
-         font-weight="normal"
-         style="font-weight:normal;font-size:12px;font-family:Ubuntu;fill:#ffffff">
-        <text
-           id="text35">
-          <tspan
-             x="0"
-             y="11"
-             id="tspan33">Загрузите из</tspan>
-        </text>
-      </g>
-      <g
-         id="Snap-Store"
-         transform="translate(51,19)"
-         font-size="24"
-         font-weight="normal"
-         style="font-weight:normal;font-size:24px;font-family:Ubuntu;fill:#ffffff">
-        <text
-           id="text40">
-          <tspan
-             x="0"
-             y="22"
-             id="tspan38">Snap Store</tspan>
-        </text>
-      </g>
     </g>
-  </g>
 </svg>

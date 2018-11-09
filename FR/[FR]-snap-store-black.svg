@@ -3,49 +3,19 @@
     <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
     <title>[FR]-snap-store-black</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <polygon id="path-1" points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58"></polygon>
-    </defs>
     <g id="[FR]-snap-store-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="[FR]-snap-store-white" transform="translate(1.000000, 1.000000)">
-            <rect id="Rectangle-path" stroke="#CDCDCD" fill="#FFFFFF" x="0" y="0" width="180" height="54" rx="2"></rect>
-            <g id="logo" transform="translate(8.000000, 11.000000)">
-                <g id="Group">
-                    <polygon id="Fill-2265" fill="#82BEA0" points="18.9875172 17.8017143 26.2054138 10.5525714 18.9875172 7.33085714"></polygon>
-                    <polygon id="Fill-2266" fill="#82BEA0" points="5.20774138 31.6411429 17.9423276 18.852 14.058569 14.9742857"></polygon>
-                    <polygon id="Fill-2267" fill="#82BEA0" points="0.160180862 0.233262857 18.3753103 18.4171429 18.3753103 6.84571429"></polygon>
-                    <g id="Fill-2268" transform="translate(19.344828, 6.285714)" fill="#FA6441">
-                        <polygon id="path-2" points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58"></polygon>
-                    </g>
-                    <g id="colour/snappy-accent-Clipped" transform="translate(19.344828, 6.285714)">
-                        <g>
-                            <mask id="mask-2" fill="white">
-                                <use xlink:href="#path-1"></use>
-                            </mask>
-                            <g id="path-1"></g>
-                            <g id="colour/snappy-accent" mask="url(#mask-2)">
-                                <g transform="translate(-20.000000, -10.000000)" id="Rectangle-2">
-                                    <g transform="translate(0.086207, 0.857143)">
-                                        <g id="Group" transform="translate(0.343092, 0.497771)" fill="#FA6441">
-                                            <rect id="Rectangle-path" x="0" y="0" width="101.275862" height="34.8571429"></rect>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
+        <g id="Black-badge">
+            <rect id="Rectangle-path" stroke="#CDCDCD" stroke-width="1" fill="#252525" fill-rule="evenodd" x="0" y="0" width="182" height="56" rx="2"></rect>
+            <g id="logo" transform="translate(8.000000, 11.000000)" fill-rule="nonzero">
+                <path d="M18.9875172,17.8017143 L18.9875172,7.33085714 L26.2054138,10.5525714 L18.9875172,17.8017143 Z M5.20774138,31.6411429 L14.058569,14.9742857 L17.9423276,18.852 L5.20774138,31.6411429 Z M0.160180862,0.233262857 L18.3753103,6.84571429 L18.3753103,18.4171429 L0.160180862,0.233262857 Z" id="body" fill="#82BEA0"></path>
+                <polygon id="head" fill="#FA6441" points="29.8968621 6.84514286 19.4057069 6.84514286 32.8936034 12.8657143"></polygon>
             </g>
-            <g id="Installer-à-partir-d" transform="translate(50.000000, 7.000000)" fill="#111111" font-family="Ubuntu" font-size="12" font-weight="normal">
-                <text id="Installer-à-partir-du">
-                    <tspan x="0" y="11">Installer à partir du</tspan>
-                </text>
-            </g>
-            <g id="Snap-Store" transform="translate(51.000000, 19.000000)" fill="#111111" font-family="Ubuntu" font-size="24" font-weight="normal">
-                <text>
-                    <tspan x="0" y="22">Snap Store</tspan>
-                </text>
-            </g>
+            <text id="Get-it-from-the" font-family="Ubuntu" font-size="12" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="50" y="12">Installer à partir du</tspan>
+            </text>
+            <text id="Snap-Store" font-family="Ubuntu" font-size="24" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                <tspan x="50" y="41">Snap Store</tspan>
+            </text>
         </g>
     </g>
 </svg>

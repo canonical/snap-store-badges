@@ -1,180 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="182px"
-   height="56px"
-   viewBox="0 0 182 56"
-   version="1.1"
-   id="svg3942"
-   sodipodi:docname="[TW]-snap-store-white.svg"
-   inkscape:version="0.92.3 (17ff0a3, 2018-10-25)">
-  <metadata
-     id="metadata3946">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1016"
-     id="namedview3944"
-     showgrid="false"
-     inkscape:zoom="2.5714286"
-     inkscape:cx="87.5"
-     inkscape:cy="28"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Get-it-from-the" />
-  <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title3898">[EN]-snap-store-white</title>
-  <desc
-     id="desc3900">Created with Sketch.</desc>
-  <defs
-     id="defs3903">
-    <polygon
-       id="path-1"
-       points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58" />
-  </defs>
-  <g
-     id="[EN]-snap-store-white"
-     stroke="none"
-     stroke-width="1"
-     fill="none"
-     fill-rule="evenodd">
-    <g
-       transform="translate(1.000000, 1.000000)"
-       id="g3939">
-      <rect
-         id="Rectangle-path"
-         stroke="#CDCDCD"
-         fill="#FFFFFF"
-         x="0"
-         y="0"
-         width="180"
-         height="54"
-         rx="2" />
-      <g
-         id="logo"
-         transform="translate(8.000000, 11.000000)">
-        <g
-           id="g3926">
-          <polygon
-             id="Fill-2265"
-             fill="#82BEA0"
-             points="18.9875172 17.8017143 26.2054138 10.5525714 18.9875172 7.33085714" />
-          <polygon
-             id="Fill-2266"
-             fill="#82BEA0"
-             points="5.20774138 31.6411429 17.9423276 18.852 14.058569 14.9742857" />
-          <polygon
-             id="Fill-2267"
-             fill="#82BEA0"
-             points="0.160180862 0.233262857 18.3753103 18.4171429 18.3753103 6.84571429" />
-          <g
-             id="Fill-2268"
-             transform="translate(19.344828, 6.285714)"
-             fill="#FA6441">
-            <polygon
-               id="path-2"
-               points="10.5520345 0.559428571 0.0608793103 0.559428571 13.5487759 6.58" />
-          </g>
-          <g
-             id="colour/snappy-accent-Clipped"
-             transform="translate(19.344828, 6.285714)">
-            <g
-               id="g3923">
-              <mask
-                 id="mask-2"
-                 fill="white">
-                <use
-                   xlink:href="#path-1"
-                   id="use3911" />
-              </mask>
-              <g
-                 id="g3914" />
-              <g
-                 id="colour/snappy-accent"
-                 mask="url(#mask-2)">
-                <g
-                   transform="translate(-20.000000, -10.000000)"
-                   id="Rectangle-2">
-                  <g
-                     transform="translate(0.086207, 0.857143)"
-                     id="g3919">
-                    <g
-                       id="Group"
-                       transform="translate(0.343092, 0.497771)"
-                       fill="#FA6441">
-                      <rect
-                         id="rect3916"
-                         x="0"
-                         y="0"
-                         width="101.275862"
-                         height="34.8571429" />
-                    </g>
-                  </g>
-                </g>
-              </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="56px" viewBox="0 0 182 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>[TW]-snap-store-white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="[TW]-snap-store-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="White-badge">
+            <rect id="Rectangle-path" stroke="#CDCDCD" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="181" height="55" rx="2"></rect>
+            <g id="logo" transform="translate(8.000000, 11.000000)" fill-rule="nonzero">
+                <path d="M18.9875172,17.8017143 L18.9875172,7.33085714 L26.2054138,10.5525714 L18.9875172,17.8017143 Z M5.20774138,31.6411429 L14.058569,14.9742857 L17.9423276,18.852 L5.20774138,31.6411429 Z M0.160180862,0.233262857 L18.3753103,6.84571429 L18.3753103,18.4171429 L0.160180862,0.233262857 Z" id="body" fill="#82BEA0"></path>
+                <polygon id="head" fill="#FA6441" points="29.8968621 6.84514286 19.4057069 6.84514286 32.8936034 12.8657143"></polygon>
             </g>
-          </g>
+            <text id="Get-it-from-the" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="24" fill="#111111">
+                <tspan x="50" y="14">安裝軟體敬請移駕</tspan>
+            </text>
+            <text id="Snap-Store" font-family="Ubuntu" font-size="24" font-weight="normal" line-spacing="24" fill="#111111">
+                <tspan x="50" y="41">Snap Store</tspan>
+            </text>
         </g>
-      </g>
-      <g
-         id="Get-it-from-the"
-         transform="translate(50.000000, 7.000000)"
-         fill="#111111"
-         font-family="Ubuntu"
-         font-size="12"
-         font-weight="normal">
-        <text
-           id="text3931"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;"
-           y="10.1"
-           x="-0.156">
-          <tspan
-             sodipodi:role="line"
-             id="tspan3989"
-             x="-0.156"
-             y="10.1">安裝軟體敬請移駕</tspan>
-        </text>
-      </g>
-      <g
-         id="Snap-Store"
-         transform="translate(51.000000, 19.000000)"
-         fill="#111111"
-         font-family="Ubuntu"
-         font-size="24"
-         font-weight="normal">
-        <text
-           id="text3936">
-          <tspan
-             x="0"
-             y="22"
-             id="tspan3934">Snap Store</tspan>
-        </text>
-      </g>
     </g>
-  </g>
 </svg>
