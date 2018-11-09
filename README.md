@@ -13,7 +13,7 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Spanish
 
 ### What formats are available?
-All assets are available as _PNG_ in *1x (180x54)* and *2x (360x110)* sizes, as well as in SVG format. Publishers are more than welcome to make alterations or extend the work on these assets.
+All assets are available as _PNG_ in *1x (180x54)* and *2x (360x110)* sizes, as well as in SVG format.
 
 ## Is your language missing? Help us translate them!
 Feel free to open a pull request with your proposed changes. Every little helps!
