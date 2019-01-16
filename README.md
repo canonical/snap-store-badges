@@ -14,6 +14,7 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Chinese(Taiwan)
 - Russian
 - Portuguese
+- Italian (Italy)
 
 ### What formats are available?
 All assets are available as _PNG_ in *1x (182x56)* and *2x (362x112)* sizes, as well as in SVG format.
