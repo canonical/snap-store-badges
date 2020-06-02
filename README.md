@@ -15,6 +15,8 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Russian
 - Portuguese
 - Italian (Italy)
+- Romanian
+- Bulgarian
 - Bengali
 
 ### What formats are available?
