@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 182 56"
+   style="enable-background:new 0 0 182 56;"
+   xml:space="preserve"
+   sodipodi:docname="[zh-CN]-snap-store-black.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs22" /><sodipodi:namedview
+   id="namedview20"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="6.8681319"
+   inkscape:cx="91"
+   inkscape:cy="28.028"
+   inkscape:window-width="1394"
+   inkscape:window-height="933"
+   inkscape:window-x="339"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Black-badge" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#252525;stroke:#CDCDCD;}
+	.st1{fill:#82BEA0;}
+	.st2{fill:#FA6441;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'PingFangSC-Regular-GBpc-EUC-H';}
+	.st5{font-size:12px;}
+	.st6{font-family:'Ubuntu';}
+	.st7{font-size:24px;}
+</style>
+<title
+   id="title4">[TW]-snap-store-black</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+<g
+   id="g17">
+	<g
+   id="Black-badge">
+		<path
+   id="Rectangle-path"
+   class="st0"
+   d="M2,0h178c1.1,0,2,0.9,2,2v52c0,1.1-0.9,2-2,2H2c-1.1,0-2-0.9-2-2V2C0,0.9,0.9,0,2,0z" />
+		<g
+   id="logo"
+   transform="translate(8.000000, 11.000000)">
+			<path
+   id="body"
+   class="st1"
+   d="M19,17.8V7.3l7.2,3.2L19,17.8z M5.2,31.6L14.1,15l3.9,3.9L5.2,31.6z M0.2,0.2l18.2,6.6v11.6     L0.2,0.2z" />
+			<polygon
+   id="head"
+   class="st2"
+   points="29.9,6.8 19.4,6.8 32.9,12.9    " />
+		</g>
+		<text
+   transform="translate(50,19)"
+   class="st3 st4 st5"
+   id="text12"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans SC';-inkscape-font-specification:'Noto Sans SC'"
+     id="tspan961">下载应用，请到</tspan></text>
+		<text
+   transform="matrix(1 0 0 1 50 41)"
+   class="st3 st6 st7"
+   id="text14">Snap Store</text>
+	</g>
+</g>
+</svg>

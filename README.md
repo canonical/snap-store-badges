@@ -11,7 +11,8 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Japanese
 - French
 - Spanish
-- Chinese(Taiwan)
+- Chinese (Mainland of China)
+- Chinese (Taiwan)
 - Russian
 - Portuguese
 - Italian (Italy)
