@@ -1,5 +1,7 @@
 # Snap Store badges for promotional purposes
 
+**This repository is no longer maintained. Please check [here](https://github.com/canonical/snapcraft.io/blob/main/HACKING.md#adding-new-publicise-svg-badges) for making new contributions**
+
 ![Snap Store badges preview](https://raw.githubusercontent.com/snapcore/snap-store-badges/master/badges-preview.png)
 
 ## What is in this repository?
